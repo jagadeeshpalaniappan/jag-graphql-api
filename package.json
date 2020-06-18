@@ -1,0 +1,23 @@
+{
+  "name": "jag-graphql-api",
+  "version": "1.0.0",
+  "description": "jag-graphql-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jagadeeshpalaniappan/jag-graphql-api--now.git"
+  },
+  "author": "Jagadeesh Palaniappan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jagadeeshpalaniappan/jag-graphql-api--now/issues"
+  },
+  "homepage": "https://github.com/jagadeeshpalaniappan/jag-graphql-api--now#readme",
+  "dependencies": {
+    "apollo-server-micro": "^2.15.0",
+    "graphql": "^15.1.0"
+  }
+}
